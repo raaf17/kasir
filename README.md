@@ -1,29 +1,19 @@
 #### Setup Projek
 
-## run composer update
-
+- Run composer update
 ```composer update```
 
-## generate key
-
+- Generate key
 ```php artisan key:generate```
 
-## link storage
-
+- Link storage
 ```php artisan storage:link```
 
-## install node modules
-
+- Install node modules
 ```npm install```
 
-# (kalau ada error atau warning)
-
-```npm audit fix --force```
-
-## run npm dev
-
+- Run npm dev
 ```npm run dev```
 
-## start server
-
+- Start server
 ```php artisan serve```
